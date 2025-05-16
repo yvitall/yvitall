@@ -1,8 +1,7 @@
-## Eaí pessoal! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
-
+<h1> Eaí pessoal!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <hr>
-#### Sobre mim
-Me chamo Yuri Vital e sou um engenheiro de software em formação.
+<h2>Sobre mim</h2> 
+<p>Me chamo Yuri Vital e sou um engenheiro de software em formação.</p>
 <!--
 **yvitall/yvitall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
