@@ -1,5 +1,4 @@
-<h1> Eaí pessoal!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<hr>
+<h1> Eaí pessoal!<img width="28px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h2>Sobre mim</h2> 
 <p>Me chamo Yuri Vital e sou um engenheiro de software em formação.</p>
 <!--
