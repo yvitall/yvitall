@@ -1,15 +1,16 @@
-<h1> Eaí pessoal!<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h2>Sobre mim</h2> 
-<p>Me chamo Yuri Vital e sou um engenheiro de software em formação.</p>
-<!--
-**yvitall/yvitall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+<h1>
+Eaí pessoal! Sejam bem-vindos! <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+</h1>
 
+<h2>Sobre mim</h2> 
+<p>Me chamo Yuri Vital.</p>
+
+<div align="left">
+- 👾 Engenheiro de Software em formação
+- 👨‍💻 
+- 
+<div>
+
+<h2>Tecnologias</h2>
+
+<h2>Desempenho</h2>
