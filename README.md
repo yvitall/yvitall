@@ -5,7 +5,7 @@ E aí pessoal, sejam bem-vindos! <img src="https://raw.githubusercontent.com/iam
 <h2>[🌐] Sobre mim</h2>
 <p>Me chamo Yuri Vital, Engenheiro de Software em formação com interesse em desenvolvimento Full Stack, iniciando através das tecnologias do Front-End..</p>
 
-<div align="center">
+<div align="center" width="400px" height="auto">
 <img alt="matrixcode" src="https://imgur.com/G9lFPCK.gif">
 <div>
 
@@ -21,7 +21,7 @@ E aí pessoal, sejam bem-vindos! <img src="https://raw.githubusercontent.com/iam
   <img alt="github" src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </div>
 
-<div align="center">
+<div display="flex">
   <a href="https://github.com/yvitall">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=yvitall&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvitall&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
