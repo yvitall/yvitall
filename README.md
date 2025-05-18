@@ -21,17 +21,11 @@ E aí pessoal, sejam bem-vindos! <img src="https://raw.githubusercontent.com/iam
   <img alt="github" src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </div>
 
+###
+
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yurivital&theme=tokyonight&show_icons=true&hide_title=true&count_private=true&hide_border=true&include_all_commits=true" width="400px"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurivital&layout=compact&theme=tokyonight&hide_border=true" width="400px"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=yvitall&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="400px" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yvitall&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="400px" alt="languages graph"/>
 </div>
 
 ###
