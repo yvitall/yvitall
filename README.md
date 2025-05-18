@@ -2,14 +2,13 @@
 E aí pessoal, sejam bem-vindos! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 </h1>
 
-###
-
 <h2>[🌐] Sobre mim</h2>
 <p>Me chamo Yuri Vital, Engenheiro de Software em formação com interesse em desenvolvimento Full Stack, iniciando através das tecnologias do Front-End..</p>
 
 <div align="center">
 <img alt="matrixcode" src="https://imgur.com/G9lFPCK.gif">
 <div>
+
 ###
 
 <h2>[🎮] Tecnologias</h2>
@@ -24,8 +23,8 @@ E aí pessoal, sejam bem-vindos! <img src="https://raw.githubusercontent.com/iam
 
 <div align="center">
   <a href="https://github.com/yvitall">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yvitall&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvitall&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=yvitall&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvitall&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
 ###
