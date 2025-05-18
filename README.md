@@ -5,7 +5,7 @@ E aí pessoal, sejam bem-vindos! <img src="https://raw.githubusercontent.com/iam
 <h2>[🌐] Sobre mim</h2>
 <p>Me chamo Yuri Vital, Engenheiro de Software em formação com interesse em desenvolvimento Full Stack, iniciando através das tecnologias do Front-End..</p>
 
-<div align="center" width="400px" height="auto">
+<div align="center" width="150%" height="auto">
 <img alt="matrixcode" src="https://imgur.com/G9lFPCK.gif">
 <div>
 
@@ -22,8 +22,8 @@ E aí pessoal, sejam bem-vindos! <img src="https://raw.githubusercontent.com/iam
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yvitall&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yvitall&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yvitall&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="48%" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yvitall&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="50%" alt="languages graph"/>
 </div>
 
 ###
