@@ -3,7 +3,7 @@ E aí pessoal, sejam bem-vindos! <img src="https://raw.githubusercontent.com/iam
 </h1>
 
 <h2>[🌐] Sobre mim</h2>
-<p>Me chamo Yuri Vital, Engenheiro de Software em formação com interesse em desenvolvimento Full Stack, iniciando através das tecnologias do Front-End..</p>
+<p>Me chamo Yuri Vital, atualmente estou cursando Análise e Desenvolvimento de Sistemas, e, estou iniciando através das tecnologias do Front-End..</p>
 
 <div align="center">
 <img alt="matrixcode" src="https://i.pinimg.com/originals/7f/7f/28/7f7f2882899755a705a2953b6fcfc263.gif">
