@@ -1,37 +1,40 @@
-<h1>
-E aí pessoal, sejam bem-vindos! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
-</h1>
+ # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, eu sou o Yuri Vital
 
-<h2>[🌐] Sobre mim</h2>
-<p>Me chamo Yuri Vital, atualmente estou cursando o 4º período de Análise e Desenvolvimento de Sistemas, e, estou focado no desenvolvimento backend com Java e suas ferramentas.</p>
+**Estudante de Análise e Desenvolvimento de Sistemas | Foco em Java e Backend**
 
-<div align="center">
-<img alt="matrixcode" src="https://i.pinimg.com/originals/7f/7f/28/7f7f2882899755a705a2953b6fcfc263.gif" width="200px" heigth="100px">
-<div>
+Sou um desenvolvedor em formação, apaixonado por tecnologia e por criar soluções para problemas do mundo real através de código. Atualmente, estou focado em aprofundar meus conhecimentos no ecossistema Java e na construção de lógicas sólidas.
 
-###
+### 🚀 Sobre mim
 
-<h2>[🎮] Tecnologias</h2>
+- 🔭 **Atualmente desenvolvendo:** **EngCalc**, um software para automação de cálculos de materiais na Engenharia Civil.
+- 🌱 **Estudando no momento:** Programação Orientada a Objetos (POO), Spring Boot, JPA, Hibernate e Bancos de Dados.
+- 💼 **Experiência atual:** Atuo com Suporte Técnico (Nível 1) e Gestão de Incidentes de TI.
+- ⚡ **Curiosidade:** Gosto de atuar de ponta a ponta, desde o protótipo no Figma até a implementação do código.
 
-<div style="inline_block">
-  <img alt="java" src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/>
-  <img alt="html5" src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF"/>          
-  <img alt="css3" src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
-  <img alt="git"src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
-  <img alt="github" src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</div>
+---
 
-###
+### 🛠️ Tecnologias e Ferramentas
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=yvitall&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" width="34%" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yvitall&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" width="50%" alt="languages graph"/>
-</div>
+**Linguagens & Backend:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
-###
+**Frontend & Design:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
-<h2>[☎️] Contate-me</h2>
-<div align="center">
-<a href="https://www.linkedin.com/in/yurivitall/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"> 
-<a href="mailto:yvital.work@gmail.com"> <img alt="gmail" src="https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF">
-<div>
+**Ferramentas:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 🌐 Meus Projetos Principais
+
+#### 🚧 EngCalc - Calculadora de Revestimentos (Em Desenvolvimento)
+Projeto pessoal em **Java** construído para solucionar uma demanda real da Construção Civil. O software utiliza matemática e Lógica de Programação para calcular áreas úteis e a quantidade de revestimentos necessários (com margem de perda), automatizando processos manuais. Atualmente rodando via CLI e passando por refatoração para POO.
+> [🔗 Ver Repositório](https://github.com/yvitall/engCalc.git)
+
+#### ♻️ DTech - Plataforma de Descarte Eletrônico
+Desenvolvimento *End-to-End* (do protótipo de alta fidelidade no Figma ao código) de uma plataforma sustentável. Focado em responsividade e usabilidade utilizando HTML, CSS, JavaScript e TailwindCSS.
+> [🔗 Ver Deploy no GitHub Pages](https://github.com/yvitall/DTech.git)
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yurivitall/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvital.work@gmail.com)
