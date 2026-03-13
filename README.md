@@ -6,7 +6,7 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e por criar soluç
 
 ### 🚀 Sobre mim
 
-- 🔭 **Atualmente desenvolvendo:** **EngCalc**, um software para automação de cálculos de materiais na Engenharia Civil.
+- 🔭 **Atualmente desenvolvendo:** **yadoT**,, estando responsável pelo backend onde estou construíndo uma API REST utilizando Java & Spring Boot.
 - 🌱 **Estudando no momento:** Programação Orientada a Objetos (POO), Spring Boot, JPA, Hibernate e Bancos de Dados.
 - 💼 **Experiência atual:** Atuo com Suporte Técnico (Nível 1) e Gestão de Incidentes de TI.
 - ⚡ **Curiosidade:** Gosto de atuar de ponta a ponta, desde o protótipo no Figma até a implementação do código.
@@ -15,11 +15,7 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e por criar soluç
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Linguagens & Backend:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-
-**Frontend & Design:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-
-**Ferramentas:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,tailwindcss,git,figma"/>
 
 ---
 
