@@ -1,6 +1,6 @@
  # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, eu sou o Yuri Vital
 
-**Estudante de Análise e Desenvolvimento de Sistemas | Foco em Java e Backend**
+**Desenvolvedor Back-end | Java & Spring Boot | APIs REST | Estudante de ADS | Git & Github**
 
 Sou um desenvolvedor em formação, apaixonado por tecnologia e por criar soluções para problemas do mundo real através de código. Atualmente, estou focado em aprofundar meus conhecimentos no ecossistema Java e na construção de lógicas sólidas.
 
@@ -20,6 +20,10 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e por criar soluç
 ---
 
 ### 🌐 Meus Projetos Principais
+
+#### 🎯 yadoT - API REST para Gerenciamento de Hábitos (Em Desenvolvimento)
+Atuação como Tech Lead e Desenvolvedor Back-end. Construção de uma API RESTful utilizando Java e Spring Boot sob uma Arquitetura em 3 Camadas (Client-Server). O projeto envolve persistência de dados com PostgreSQL via JPA/Hibernate e gestão completa do ciclo de vida do desenvolvimento (Figma ao Deploy).
+> [🔗 Ver Repositório](https://github.com/esuda-padroes-projetos/yadoT-2026-1-padroes-projeto-manha-av1-yvitall)
 
 #### 🚧 EngCalc - Calculadora de Revestimentos (Em Desenvolvimento)
 Projeto pessoal em **Java** construído para solucionar uma demanda real da Construção Civil. O software utiliza matemática e Lógica de Programação para calcular áreas úteis e a quantidade de revestimentos necessários (com margem de perda), automatizando processos manuais. Atualmente rodando via CLI e passando por refatoração para POO.
