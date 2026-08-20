@@ -1,13 +1,13 @@
  # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, eu sou o Yuri Vital
 
-**Desenvolvedor Back-end | Java & Spring Boot | APIs REST | Estudante de ADS | Git & Github**
+**Backend Developer & Systems Analysis Student | Java · Spring Boot · REST APIs · PostgreSQL**
 
 Sou um desenvolvedor em formação, apaixonado por tecnologia e por criar soluções para problemas do mundo real através de código. Atualmente, estou focado em aprofundar meus conhecimentos no ecossistema Java e na construção de lógicas sólidas.
 
 ### 🚀 Sobre mim
 
-- 🔭 **Atualmente desenvolvendo:** **yadoT**,, estando responsável pelo backend onde estou construíndo uma API REST utilizando Java & Spring Boot.
-- 🌱 **Estudando no momento:** Programação Orientada a Objetos (POO), Spring Boot, JPA, Hibernate e Bancos de Dados.
+- 🔭 **Atualmente desenvolvendo:** **ValidAI**, ...
+- 🌌 **Explorando no momento:** Spring Boot,Desenvolvimento de API RESTful, Arquiteturas e Bancos de Dados.
 - 💼 **Experiência atual:** Atuo com Suporte Técnico (Nível 1) e Gestão de Incidentes de TI.
 - ⚡ **Curiosidade:** Gosto de atuar de ponta a ponta, desde o protótipo no Figma até a implementação do código.
 
@@ -15,11 +15,16 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e por criar soluç
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,tailwindcss,git,figma"/>
+<img src="https://skillicons.dev/icons?i=java,spring,postman,postgresql,git,figma"/>
 
 ---
 
 ### 🌐 Meus Projetos Principais
+
+#### 📃 ValidAI - Sistema para gerenciamento de eventos *(Em Desenvolvimento)*
+Projeto acadêmico que permite a criação, gerenciamento de eventos institucionais e emissão de certificados para usuários participantes.
+...
+> [🔗 Ver Repositório](https://github.com/yvitall/project-backend-validai)
 
 #### 🎯 yadoT - API REST para Gerenciamento de Hábitos (Em Desenvolvimento)
 Atuação como Tech Lead e Desenvolvedor Back-end. Construção de uma API RESTful utilizando Java e Spring Boot sob uma Arquitetura em 3 Camadas (Client-Server). O projeto envolve persistência de dados com PostgreSQL via JPA/Hibernate e gestão completa do ciclo de vida do desenvolvimento (Figma ao Deploy).
