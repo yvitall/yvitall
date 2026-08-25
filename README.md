@@ -6,7 +6,7 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e por criar soluç
 
 ### 🚀 Sobre mim
 
-- 🔭 **Atualmente desenvolvendo:** **ValidAI**, ...
+- 🔭 **Atualmente desenvolvendo:** **ValidAI**, sistema para gerenciamento, organização e automatização na emissão de certificados de alunos e participantes de eventos acadêmicos.
 - 🌌 **Explorando no momento:** Spring Boot,Desenvolvimento de API RESTful, Arquiteturas e Bancos de Dados.
 - 💼 **Experiência atual:** Atuo com Suporte Técnico (Nível 1) e Gestão de Incidentes de TI.
 - ⚡ **Curiosidade:** Gosto de atuar de ponta a ponta, desde o protótipo no Figma até a implementação do código.
